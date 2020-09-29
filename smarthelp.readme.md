@@ -3,7 +3,7 @@
 Smart help is ecommerce application that contains three modules one is user (normal), Delivery Boy and other is Admin (owner) this app has its own mobile app for user and personal app for delivery Boys
 http://www.smarthelp.online/ - expire
 
-[Screen Shots](https://github.com/kratos619/personal_private_repo_description#here-are-some-screen-shots)
+[Screen Shots](https://github.com/kratos619/personal_private_repo_description/blob/master/smarthelp.readme.md#here-are-some-screen-shots)
 
 ## Technology Use
 
