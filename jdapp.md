@@ -1,8 +1,8 @@
-# JD Clinic (crm) Specification
+# JD Clinic (dentist Procedure app) Specification
 
 #### app version 2
 
-JD Clinic (crm) is a Crm web application use to manage patient , staff, inventory, genrate reports , write blogs , appointment Scheduling, contact inquiry, it has 2 modules Doctor and patient
+JD Clinic (dentist Procedure app) is a Crm web application use to manage patient , staff, inventory, genrate reports , write blogs , appointment Scheduling, contact inquiry, it has 2 modules Doctor and patient
 http://www.dentaltourismonline.in/ - expire
 
 [Screen Shots](https://github.com/kratos619/personal_private_repo_description/blob/master/jdapp.md#here-are-some-screen-shots)
