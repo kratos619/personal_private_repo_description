@@ -121,3 +121,7 @@ http://www.dentaltourismonline.in/ - expire
 ![Patient Dashboard (Report View two)](./JDAPP/reportViewThree.png)
 
 ![Patient Dashboard (Report View three)](./JDAPP/reportViewfour.png)
+
+### Doctor Dashboard (Video)
+
+[![Doctor Dashboard (Video)](https://img.youtube.com/vi/k4XZGmbSoOU/0.jpg)](https://www.youtube.com/watch?v=k4XZGmbSoOU)
