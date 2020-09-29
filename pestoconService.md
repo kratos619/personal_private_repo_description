@@ -1,9 +1,9 @@
 # Pestocon Services Specification
 
-pestoccon service cms app. mainly use to generate invoices
+Pestocon service cms app. mainly use to generate invoices
 http://www.pestoconservices.com - LIVE
 
-[Screen Shots](https://github.com/kratos619/personal_private_repo_description/blob/master/jdapp.md#here-are-some-screen-shots)
+[Screen Shots and Video](https://github.com/kratos619/personal_private_repo_description/blob/master/pestoconService.md#here-are-some-screen-shots)
 
 ## Technology Use
 
